@@ -1,0 +1,4 @@
+# Requirements untuk versi MediaPipe (Advanced)
+opencv-python==4.5.5.64
+mediapipe==0.8.11
+numpy==1.21.6

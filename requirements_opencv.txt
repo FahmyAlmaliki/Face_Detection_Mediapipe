@@ -1,0 +1,3 @@
+# Requirements untuk versi OpenCV (Recommended)
+opencv-python==4.5.5.64
+numpy==1.21.6
